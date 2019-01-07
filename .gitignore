@@ -58,3 +58,10 @@ jest
 obj/
 [Bb]in/
 [Oo]bj/
+
+
+# Snap
+prime/
+stage/
+parts/
+*.snap
